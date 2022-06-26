@@ -1,0 +1,22 @@
+{
+  "name": "classmap",
+  "version": "0.0.1",
+  "description": "A simple way to map css classes for react components similar to how the Angular [ngClass] directive works.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "CSS",
+    "Classes",
+    "Angular",
+    "Raect",
+    "Map",
+    "ngClass"
+  ],
+  "author": "Haydn Comley",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
