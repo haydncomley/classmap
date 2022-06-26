@@ -1,6 +1,6 @@
 {
   "name": "easy-class",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple way to map css classes for react components similar to how the Angular [ngClass] directive works.",
   "homepage": "https://github.com/haydncomley/easy-class",
   "repository": {
